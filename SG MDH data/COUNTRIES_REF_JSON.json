@@ -1,0 +1,1271 @@
+[ {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "01",
+  "countryDescription" : "NOT REGISTERED"
+}, {
+  "nationality" : "SCOTTISH",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "04",
+  "countryDescription" : "SCOTLAND"
+}, {
+  "nationality" : "ANDORRAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "AD",
+  "countryDescription" : "ANDORRA"
+}, {
+  "nationality" : "EMIRIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "AE",
+  "countryDescription" : "UNITED ARAB EMIRATES"
+}, {
+  "nationality" : "AFGHAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "AF",
+  "countryDescription" : "AFGHANISTAN"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2016-02-15 10:38:39.410",
+  "countryCode" : "AG",
+  "countryDescription" : "ANTIGUA AND BARBUDA"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "AI",
+  "countryDescription" : "ANGUILLA"
+}, {
+  "nationality" : "ALBANIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "AL",
+  "countryDescription" : "ALBANIA"
+}, {
+  "nationality" : "ARMENIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "AM",
+  "countryDescription" : "ARMENIA"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "AN",
+  "countryDescription" : "NETHERLANDS ANTILLES"
+}, {
+  "nationality" : "ANGOLAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "AO",
+  "countryDescription" : "ANGOLA"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "AQ",
+  "countryDescription" : "ANTARCTICA"
+}, {
+  "nationality" : "ARGENTINIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "AR",
+  "countryDescription" : "ARGENTINA"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "AS",
+  "countryDescription" : "AMERICAN SAMOA"
+}, {
+  "nationality" : "AUSTRIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "AT",
+  "countryDescription" : "AUSTRIA"
+}, {
+  "nationality" : "AUSTRALIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "AU",
+  "countryDescription" : "AUSTRALIA"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "AW",
+  "countryDescription" : "ARUBA"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "AX",
+  "countryDescription" : "ALAND ISLANDS"
+}, {
+  "nationality" : "AZERBAIJANI",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "AZ",
+  "countryDescription" : "AZERBAIJAN"
+}, {
+  "nationality" : "BOSNIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "BA",
+  "countryDescription" : "BOSNIA AND HERZEGOVINA"
+}, {
+  "nationality" : "BARBADIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "BB",
+  "countryDescription" : "BARBADOS"
+}, {
+  "nationality" : "BANGLADESHI",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "BD",
+  "countryDescription" : "BANGLADESH"
+}, {
+  "nationality" : "BELGIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "BE",
+  "countryDescription" : "BELGIUM"
+}, {
+  "nationality" : "BURKINABE",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "BF",
+  "countryDescription" : "BURKINA FASO"
+}, {
+  "nationality" : "BULGARIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "BG",
+  "countryDescription" : "BULGARIA"
+}, {
+  "nationality" : "BAHRAINI",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "BH",
+  "countryDescription" : "BAHRAIN"
+}, {
+  "nationality" : "BURUNDIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "BI",
+  "countryDescription" : "BURUNDI"
+}, {
+  "nationality" : "BENINESE",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "BJ",
+  "countryDescription" : "BENIN"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "BL",
+  "countryDescription" : "SAINT BARTHELEMY"
+}, {
+  "nationality" : "BERMUDIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "BM",
+  "countryDescription" : "BERMUDA"
+}, {
+  "nationality" : "BRUNEIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "BN",
+  "countryDescription" : "BRUNEI DARUSSALAM"
+}, {
+  "nationality" : "BOLIVIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "BO",
+  "countryDescription" : "BOLIVIA"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000\"",
+  "countryCode" : "\"BQ",
+  "countryDescription" : "BONAIRE, SINT ESTATIUS AND SABA"
+}, {
+  "nationality" : "BRAZILIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "BR",
+  "countryDescription" : "BRAZIL"
+}, {
+  "nationality" : "BAHAMIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "BS",
+  "countryDescription" : "BAHAMAS"
+}, {
+  "nationality" : "BHUTANESE",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "BT",
+  "countryDescription" : "BHUTAN"
+}, {
+  "nationality" : "BOTSWANAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "BW",
+  "countryDescription" : "BOTSWANA"
+}, {
+  "nationality" : "BELARUSIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "BY",
+  "countryDescription" : "BELARUS"
+}, {
+  "nationality" : "BELIZEAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "BZ",
+  "countryDescription" : "BELIZE"
+}, {
+  "nationality" : "CANADIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "CA",
+  "countryDescription" : "CANADA"
+}, {
+  "nationality" : "COCOS ISLANDER",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "CC",
+  "countryDescription" : "COCOS (KEELING) ISLANDS"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2015-07-15 09:21:46.070\"",
+  "countryCode" : "\"CD",
+  "countryDescription" : "CONGO, THE DEMOCRATIC REPUBLIC OF"
+}, {
+  "nationality" : "CENTRAL AFRICAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "CF",
+  "countryDescription" : "CENTRAL AFRICAN REPUBLIC"
+}, {
+  "nationality" : "CONGOLESE - CONGO",
+  "timeStamp" : "2015-07-15 09:08:10.660",
+  "countryCode" : "CG",
+  "countryDescription" : "CONGO"
+}, {
+  "nationality" : "SWISS",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "CH",
+  "countryDescription" : "SWITZERLAND"
+}, {
+  "nationality" : "IVOIRIAN",
+  "timeStamp" : "2019-12-03 09:35:25.487",
+  "countryCode" : "CI",
+  "countryDescription" : "COTE D'IVOIRE"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "CK",
+  "countryDescription" : "COOK ISLANDS"
+}, {
+  "nationality" : "CHILEAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "CL",
+  "countryDescription" : "CHILE"
+}, {
+  "nationality" : "CAMEROONIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "CM",
+  "countryDescription" : "CAMEROON"
+}, {
+  "nationality" : "CHINESE",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "CN",
+  "countryDescription" : "CHINA"
+}, {
+  "nationality" : "COLOMBIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "CO",
+  "countryDescription" : "COLOMBIA"
+}, {
+  "nationality" : "COSTA RICAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "CR",
+  "countryDescription" : "COSTA RICA"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "CS",
+  "countryDescription" : "SERBI AND MONTENEGRO"
+}, {
+  "nationality" : "CUBAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "CU",
+  "countryDescription" : "CUBA"
+}, {
+  "nationality" : "CAPE VERDEAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "CV",
+  "countryDescription" : "CAPE VERDE"
+}, {
+  "nationality" : "CURACAOAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "CW",
+  "countryDescription" : "CURACAO"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "CX",
+  "countryDescription" : "CHRISTMAS ISLAND"
+}, {
+  "nationality" : "CYPRIOT",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "CY",
+  "countryDescription" : "CYPRUS"
+}, {
+  "nationality" : "CZECH",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "CZ",
+  "countryDescription" : "CZECH REPUBLIC"
+}, {
+  "nationality" : "GERMAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "DE",
+  "countryDescription" : "GERMANY"
+}, {
+  "nationality" : "DJIBOUTIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "DJ",
+  "countryDescription" : "DJIBOUTI"
+}, {
+  "nationality" : "DANISH",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "DK",
+  "countryDescription" : "DENMARK"
+}, {
+  "nationality" : "DOMINICAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "DM",
+  "countryDescription" : "DOMINICA"
+}, {
+  "nationality" : "DOMINICAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "DO",
+  "countryDescription" : "DOMINICAN REPUBLIC"
+}, {
+  "nationality" : "ALGERIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "DZ",
+  "countryDescription" : "ALGERIA"
+}, {
+  "nationality" : "ECUADOREAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "EC",
+  "countryDescription" : "ECUADOR"
+}, {
+  "nationality" : "ESTONIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "EE",
+  "countryDescription" : "ESTONIA"
+}, {
+  "nationality" : "EGYPTIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "EG",
+  "countryDescription" : "EGYPT"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "EH",
+  "countryDescription" : "WESTERN SAHARA"
+}, {
+  "nationality" : "ERITREAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "ER",
+  "countryDescription" : "ERITREA"
+}, {
+  "nationality" : "SPANISH",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "ES",
+  "countryDescription" : "SPAIN"
+}, {
+  "nationality" : "ETHIOPIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "ET",
+  "countryDescription" : "ETHIOPIA"
+}, {
+  "nationality" : "FINNISH",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "FI",
+  "countryDescription" : "FINLAND"
+}, {
+  "nationality" : "FIJIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "FJ",
+  "countryDescription" : "FIJI"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "FK",
+  "countryDescription" : "FALKLAND ISLANDS (MALVINAS)"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000\"",
+  "countryCode" : "\"FM",
+  "countryDescription" : "MICRONESIA, FEDERATED STATES OF"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "FO",
+  "countryDescription" : "FAROE ISLANDS"
+}, {
+  "nationality" : "FRENCH",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "FR",
+  "countryDescription" : "FRANCE"
+}, {
+  "nationality" : "GABONESE",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "GA",
+  "countryDescription" : "GABON"
+}, {
+  "nationality" : "BRITISH",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "GB",
+  "countryDescription" : "UNITED KINGDOM"
+}, {
+  "nationality" : "GRENADIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "GD",
+  "countryDescription" : "GRENADA"
+}, {
+  "nationality" : "GEORGIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "GE",
+  "countryDescription" : "GEORGIA"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "GF",
+  "countryDescription" : "FRENCH GUIANA"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "GG",
+  "countryDescription" : "GUERNSEY"
+}, {
+  "nationality" : "GHANAIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "GH",
+  "countryDescription" : "GHANA"
+}, {
+  "nationality" : "GIBRALTARIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "GI",
+  "countryDescription" : "GIBRALTAR"
+}, {
+  "nationality" : "GREENLANDER",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "GL",
+  "countryDescription" : "GREENLAND"
+}, {
+  "nationality" : "GAMBIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "GM",
+  "countryDescription" : "GAMBIA"
+}, {
+  "nationality" : "GUINEAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "GN",
+  "countryDescription" : "GUINEA"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "GP",
+  "countryDescription" : "GUADELOUPE"
+}, {
+  "nationality" : "EQUATORIAL GUINEAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "GQ",
+  "countryDescription" : "EQUATORIAL GUINEA"
+}, {
+  "nationality" : "GREEK",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "GR",
+  "countryDescription" : "GREECE"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "GS",
+  "countryDescription" : "SOUTH GEORGIA&SOUTH SANDWICH ISLAND"
+}, {
+  "nationality" : "GUATEMALAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "GT",
+  "countryDescription" : "GUATEMALA"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "GU",
+  "countryDescription" : "GUAM"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "GW",
+  "countryDescription" : "GUINEA-BISSAU"
+}, {
+  "nationality" : "GUYANESE",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "GY",
+  "countryDescription" : "GUYANA"
+}, {
+  "nationality" : "CHINESE (HONG KONG)",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "HK",
+  "countryDescription" : "HONG KONG"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2019-12-03 09:35:25.540",
+  "countryCode" : "HM",
+  "countryDescription" : "HEARD ISLAND AND MCDONALD ISLANDS"
+}, {
+  "nationality" : "HONDURAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "HN",
+  "countryDescription" : "HONDURAS"
+}, {
+  "nationality" : "CROATIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "HR",
+  "countryDescription" : "CROATIA"
+}, {
+  "nationality" : "HAITIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "HT",
+  "countryDescription" : "HAITI"
+}, {
+  "nationality" : "HUNGARIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "HU",
+  "countryDescription" : "HUNGARY"
+}, {
+  "nationality" : "INDONESIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "ID",
+  "countryDescription" : "INDONESIA"
+}, {
+  "nationality" : "IRISH",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "IE",
+  "countryDescription" : "IRELAND"
+}, {
+  "nationality" : "ISRAELI",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "IL",
+  "countryDescription" : "ISRAEL"
+}, {
+  "nationality" : "MANX",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "IM",
+  "countryDescription" : "ISLE OF MAN"
+}, {
+  "nationality" : "INDIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "IN",
+  "countryDescription" : "INDIA"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "IO",
+  "countryDescription" : "BRITISH INDIAN OCEAN TERRITORY"
+}, {
+  "nationality" : "IRAQI",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "IQ",
+  "countryDescription" : "IRAQ"
+}, {
+  "nationality" : "IRANIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000\"",
+  "countryCode" : "\"IR",
+  "countryDescription" : "IRAN, ISLAMIC REPUBLIC OF"
+}, {
+  "nationality" : "ICELANDER",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "IS",
+  "countryDescription" : "ICELAND"
+}, {
+  "nationality" : "ITALIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "IT",
+  "countryDescription" : "ITALY"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "JE",
+  "countryDescription" : "JERSEY"
+}, {
+  "nationality" : "JAMAICAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "JM",
+  "countryDescription" : "JAMAICA"
+}, {
+  "nationality" : "JORDANIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "JO",
+  "countryDescription" : "JORDAN"
+}, {
+  "nationality" : "JAPANESE",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "JP",
+  "countryDescription" : "JAPAN"
+}, {
+  "nationality" : "KENYAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "KE",
+  "countryDescription" : "KENYA"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "KG",
+  "countryDescription" : "KYRGYZSTAN"
+}, {
+  "nationality" : "CAMBODIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "KH",
+  "countryDescription" : "CAMBODIA"
+}, {
+  "nationality" : "I-KIRIBATI",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "KI",
+  "countryDescription" : "KIRIBATI"
+}, {
+  "nationality" : "COMORAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "KM",
+  "countryDescription" : "COMOROS"
+}, {
+  "nationality" : "KITTIAN AND NEVISIAN",
+  "timeStamp" : "2017-12-10 14:13:19.110",
+  "countryCode" : "KN",
+  "countryDescription" : "SAINT KITTS AND NEVIS"
+}, {
+  "nationality" : "NORTH KOREAN",
+  "timeStamp" : "2019-12-03 09:35:25.563\"",
+  "countryCode" : "\"KP",
+  "countryDescription" : "KOREA, DEMOCRATIC PEOPLE'S REP. OF"
+}, {
+  "nationality" : "SOUTH KOREAN",
+  "timeStamp" : "2014-04-14 00:00:00.000\"",
+  "countryCode" : "\"KR",
+  "countryDescription" : "KOREA, REPUBLIC OF"
+}, {
+  "nationality" : "KUWAITI",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "KW",
+  "countryDescription" : "KUWAIT"
+}, {
+  "nationality" : "CAYMANIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "KY",
+  "countryDescription" : "CAYMAN ISLANDS"
+}, {
+  "nationality" : "KAZAKH",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "KZ",
+  "countryDescription" : "KAZAKHSTAN"
+}, {
+  "nationality" : "LAOTIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "LA",
+  "countryDescription" : "LAO PEOPLE'S DEMOCRATIC REPUBLIC"
+}, {
+  "nationality" : "LEBANESE",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "LB",
+  "countryDescription" : "LEBANON"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "LC",
+  "countryDescription" : "SAINT LUCIA"
+}, {
+  "nationality" : "LIECHTENSTEINER",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "LI",
+  "countryDescription" : "LIECHTENSTEIN"
+}, {
+  "nationality" : "SRI LANKAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "LK",
+  "countryDescription" : "SRI LANKA"
+}, {
+  "nationality" : "LIBERIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "LR",
+  "countryDescription" : "LIBERIA"
+}, {
+  "nationality" : "MOSOTHO",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "LS",
+  "countryDescription" : "LESOTHO"
+}, {
+  "nationality" : "LITHUANIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "LT",
+  "countryDescription" : "LITHUANIA"
+}, {
+  "nationality" : "LUXEMBOURGER",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "LU",
+  "countryDescription" : "LUXEMBOURG"
+}, {
+  "nationality" : "LATVIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "LV",
+  "countryDescription" : "LATVIA"
+}, {
+  "nationality" : "LIBYAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "LY",
+  "countryDescription" : "LIBYA"
+}, {
+  "nationality" : "MOROCCAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "MA",
+  "countryDescription" : "MOROCCO"
+}, {
+  "nationality" : "MONEGASQUE",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "MC",
+  "countryDescription" : "MONACO"
+}, {
+  "nationality" : "MOLDOVAN",
+  "timeStamp" : "2014-04-14 00:00:00.000\"",
+  "countryCode" : "\"MD",
+  "countryDescription" : "MOLDOVA, REPUBLIC OF"
+}, {
+  "nationality" : "MONTENEGRIN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "ME",
+  "countryDescription" : "MONTENEGRO"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "MF",
+  "countryDescription" : "SAINT MARTIN (FRENCH PART)"
+}, {
+  "nationality" : "MALAGASY",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "MG",
+  "countryDescription" : "MADAGASCAR"
+}, {
+  "nationality" : "MARSHALLESE",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "MH",
+  "countryDescription" : "MARSHALL ISLANDS"
+}, {
+  "nationality" : "MACEDONIAN",
+  "timeStamp" : "2020-01-06 10:05:58.673\"",
+  "countryCode" : "\"MK",
+  "countryDescription" : "MACEDONIA, FORMER YUGOSLAV REP. OF"
+}, {
+  "nationality" : "MALIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "ML",
+  "countryDescription" : "MALI"
+}, {
+  "nationality" : "BURMESE",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "MM",
+  "countryDescription" : "MYANMAR"
+}, {
+  "nationality" : "MONGOLIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "MN",
+  "countryDescription" : "MONGOLIA"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "MO",
+  "countryDescription" : "MACAO"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "MP",
+  "countryDescription" : "NORTHERN MARIANA ISLANDS"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "MQ",
+  "countryDescription" : "MARTINIQUE"
+}, {
+  "nationality" : "MAURITANIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "MR",
+  "countryDescription" : "MAURITANIA"
+}, {
+  "nationality" : "MONTSERRATIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "MS",
+  "countryDescription" : "MONTSERRAT"
+}, {
+  "nationality" : "MALTESE",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "MT",
+  "countryDescription" : "MALTA"
+}, {
+  "nationality" : "MAURITIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "MU",
+  "countryDescription" : "MAURITIUS"
+}, {
+  "nationality" : "MALDIVIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "MV",
+  "countryDescription" : "MALDIVES"
+}, {
+  "nationality" : "MALAWIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "MW",
+  "countryDescription" : "MALAWI"
+}, {
+  "nationality" : "MEXICAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "MX",
+  "countryDescription" : "MEXICO"
+}, {
+  "nationality" : "MALAYSIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "MY",
+  "countryDescription" : "MALAYSIA"
+}, {
+  "nationality" : "MOZAMBIQUEAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "MZ",
+  "countryDescription" : "MOZAMBIQUE"
+}, {
+  "nationality" : "NAMIBIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "NA",
+  "countryDescription" : "NAMIBIA"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "NC",
+  "countryDescription" : "NEW CALEDONIA"
+}, {
+  "nationality" : "NIGERIEN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "NE",
+  "countryDescription" : "NIGER"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "NF",
+  "countryDescription" : "NORFOLK ISLAND"
+}, {
+  "nationality" : "NIGERIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "NG",
+  "countryDescription" : "NIGERIA"
+}, {
+  "nationality" : "NICARAGUAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "NI",
+  "countryDescription" : "NICARAGUA"
+}, {
+  "nationality" : "DUTCH",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "NL",
+  "countryDescription" : "NETHERLANDS"
+}, {
+  "nationality" : "NORWEGIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "NO",
+  "countryDescription" : "NORWAY"
+}, {
+  "nationality" : "NEPALESE",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "NP",
+  "countryDescription" : "NEPAL"
+}, {
+  "nationality" : "NAURUAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "NR",
+  "countryDescription" : "NAURU"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "NU",
+  "countryDescription" : "NIUE"
+}, {
+  "nationality" : "NEW ZEALANDER",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "NZ",
+  "countryDescription" : "NEW ZEALAND"
+}, {
+  "nationality" : "OMANI",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "OM",
+  "countryDescription" : "OMAN"
+}, {
+  "nationality" : "PANAMANIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "PA",
+  "countryDescription" : "PANAMA"
+}, {
+  "nationality" : "PERUVIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "PE",
+  "countryDescription" : "PERU"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "PF",
+  "countryDescription" : "FRENCH POLYNESIA"
+}, {
+  "nationality" : "PAPUAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "PG",
+  "countryDescription" : "PAPUA NEW GUINEA"
+}, {
+  "nationality" : "FILIPINO",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "PH",
+  "countryDescription" : "PHILIPPINES"
+}, {
+  "nationality" : "PAKISTANI",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "PK",
+  "countryDescription" : "PAKISTAN"
+}, {
+  "nationality" : "POLISH",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "PL",
+  "countryDescription" : "POLAND"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "PM",
+  "countryDescription" : "SAINT PIERRE AND MIQUELON"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "PN",
+  "countryDescription" : "PITCAIRN"
+}, {
+  "nationality" : "PUERTO RICAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "PR",
+  "countryDescription" : "PUERTO RICO"
+}, {
+  "nationality" : "PALESTINIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000\"",
+  "countryCode" : "\"PS",
+  "countryDescription" : "PALESTINE, STATE OF"
+}, {
+  "nationality" : "PORTUGESE",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "PT",
+  "countryDescription" : "PORTUGAL"
+}, {
+  "nationality" : "PALAUAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "PW",
+  "countryDescription" : "PALAU"
+}, {
+  "nationality" : "PARAGUAYAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "PY",
+  "countryDescription" : "PARAGUAY"
+}, {
+  "nationality" : "QATARI",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "QA",
+  "countryDescription" : "QATAR"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "RE",
+  "countryDescription" : "REUNION"
+}, {
+  "nationality" : "ROMANIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "RO",
+  "countryDescription" : "ROMANIA"
+}, {
+  "nationality" : "SERBIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "RS",
+  "countryDescription" : "SERBIA"
+}, {
+  "nationality" : "RUSSIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "RU",
+  "countryDescription" : "RUSSIAN FEDERATION"
+}, {
+  "nationality" : "RWANDAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "RW",
+  "countryDescription" : "RWANDA"
+}, {
+  "nationality" : "SAUDI ARABIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "SA",
+  "countryDescription" : "SAUDI ARABIA"
+}, {
+  "nationality" : "SOLOMON ISLANDER",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "SB",
+  "countryDescription" : "SOLOMON ISLANDS"
+}, {
+  "nationality" : "SEYCHELLOIS",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "SC",
+  "countryDescription" : "SEYCHELLES"
+}, {
+  "nationality" : "SUDANESE",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "SD",
+  "countryDescription" : "SUDAN"
+}, {
+  "nationality" : "SWEDISH",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "SE",
+  "countryDescription" : "SWEDEN"
+}, {
+  "nationality" : "SINGAPOREAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "SG",
+  "countryDescription" : "SINGAPORE"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000\"",
+  "countryCode" : "\"SH",
+  "countryDescription" : "SAINT HELENA, ASCENSION&TRISTAN D C"
+}, {
+  "nationality" : "SLOVENIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "SI",
+  "countryDescription" : "SLOVENIA"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "SJ",
+  "countryDescription" : "SVALBARD AND JAN MAYEN"
+}, {
+  "nationality" : "SLOVAK",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "SK",
+  "countryDescription" : "SLOVAKIA"
+}, {
+  "nationality" : "SIERRA LEONEAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "SL",
+  "countryDescription" : "SIERRA LEONE"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "SM",
+  "countryDescription" : "SAN MARINO"
+}, {
+  "nationality" : "SENEGALESE",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "SN",
+  "countryDescription" : "SENEGAL"
+}, {
+  "nationality" : "SOMALI",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "SO",
+  "countryDescription" : "SOMALIA"
+}, {
+  "nationality" : "SURINAMESE",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "SR",
+  "countryDescription" : "SURINAME"
+}, {
+  "nationality" : "SUDANESE",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "SS",
+  "countryDescription" : "SOUTH SUDAN"
+}, {
+  "nationality" : "SAO TOMEAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "ST",
+  "countryDescription" : "SAO TOME AND PRINCIPE"
+}, {
+  "nationality" : "SALVADOREAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "SV",
+  "countryDescription" : "EL SALVADOR"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "SX",
+  "countryDescription" : "SINT MAARTEN (DUTCH PART)"
+}, {
+  "nationality" : "SYRIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "SY",
+  "countryDescription" : "SYRIAN ARAB REPUBLIC"
+}, {
+  "nationality" : "SWAZI",
+  "timeStamp" : "2020-01-06 10:05:41.150",
+  "countryCode" : "SZ",
+  "countryDescription" : "ESWATINI"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "TC",
+  "countryDescription" : "TURKS AND CAICOS ISLANDS"
+}, {
+  "nationality" : "CHADIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "TD",
+  "countryDescription" : "CHAD"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "TF",
+  "countryDescription" : "FRENCH SOUTHERN TERRITORIES"
+}, {
+  "nationality" : "TOGOLESE",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "TG",
+  "countryDescription" : "TOGO"
+}, {
+  "nationality" : "THAI",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "TH",
+  "countryDescription" : "THAILAND"
+}, {
+  "nationality" : "TAJIK",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "TJ",
+  "countryDescription" : "TAJIKISTAN"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "TK",
+  "countryDescription" : "TOKELAU"
+}, {
+  "nationality" : "TIMORESE",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "TL",
+  "countryDescription" : "TIMOR-LESTE"
+}, {
+  "nationality" : "TURKMEN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "TM",
+  "countryDescription" : "TURKMENISTAN"
+}, {
+  "nationality" : "TUNISIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "TN",
+  "countryDescription" : "TUNISIA"
+}, {
+  "nationality" : "TONGAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "TO",
+  "countryDescription" : "TONGA"
+}, {
+  "nationality" : "TURKISH",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "TR",
+  "countryDescription" : "TURKEY"
+}, {
+  "nationality" : "TRINIDADIAN, TOBAGAN",
+  "timeStamp" : "2014-04-14 00:00:00.000\"",
+  "countryCode" : "\"TT",
+  "countryDescription" : "TRINIDAD AND TOBAGO"
+}, {
+  "nationality" : "TUVALUAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "TV",
+  "countryDescription" : "TUVALU"
+}, {
+  "nationality" : "TAIWANESE",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "TW",
+  "countryDescription" : "TAIWAN"
+}, {
+  "nationality" : "TANZANIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000\"",
+  "countryCode" : "\"TZ",
+  "countryDescription" : "TANZANIA, UNITED REPUBLIC OF"
+}, {
+  "nationality" : "UKRAINIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "UA",
+  "countryDescription" : "UKRAINE"
+}, {
+  "nationality" : "UGANDAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "UG",
+  "countryDescription" : "UGANDA"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2019-12-03 09:35:25.660",
+  "countryCode" : "UM",
+  "countryDescription" : "UNITED STATES MINOR OUTLYING ISLAND"
+}, {
+  "nationality" : "AMERICAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "US",
+  "countryDescription" : "UNITED STATES"
+}, {
+  "nationality" : "URUGUAYAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "UY",
+  "countryDescription" : "URUGUAY"
+}, {
+  "nationality" : "UZBEKISTANI",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "UZ",
+  "countryDescription" : "UZBEKISTAN"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "VA",
+  "countryDescription" : "HOLY SEE (VATICAN CITY STATE)"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "VC",
+  "countryDescription" : "SAINT VINCENT AND THE GRENADINES"
+}, {
+  "nationality" : "VENEZUELAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "VE",
+  "countryDescription" : "VENEZUELA"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000\"",
+  "countryCode" : "\"VG",
+  "countryDescription" : "VIRGIN ISLANDS, BRITISH"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2019-12-03 09:35:25.700\"",
+  "countryCode" : "\"VI",
+  "countryDescription" : "VIRGIN ISLANDS, U.S."
+}, {
+  "nationality" : "VIETNAMESE",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "VN",
+  "countryDescription" : "VIET NAM"
+}, {
+  "nationality" : "NI-VANUATU",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "VU",
+  "countryDescription" : "VANUATU"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "WF",
+  "countryDescription" : "WALLIS AND FUTUNA"
+}, {
+  "nationality" : "SAMOAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "WS",
+  "countryDescription" : "SAMOA"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "XZ",
+  "countryDescription" : "INSTALLATIONS -INTERNATIONAL WATERS"
+}, {
+  "nationality" : "YEMENI",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "YE",
+  "countryDescription" : "YEMEN"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "YT",
+  "countryDescription" : "MAYOTTE"
+}, {
+  "nationality" : "",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "YU",
+  "countryDescription" : "YUGOSLAVIA"
+}, {
+  "nationality" : "SOUTH AFRICAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "ZA",
+  "countryDescription" : "SOUTH AFRICA"
+}, {
+  "nationality" : "ZAMBIAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "ZM",
+  "countryDescription" : "ZAMBIA"
+}, {
+  "nationality" : "ZIMBABWEAN",
+  "timeStamp" : "2014-04-14 00:00:00.000",
+  "countryCode" : "ZW",
+  "countryDescription" : "ZIMBABWE"
+} ]
